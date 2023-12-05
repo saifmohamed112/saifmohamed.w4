@@ -1,0 +1,68 @@
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\bin\Debug\saifmohamed.w4.exe.config
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\bin\Debug\saifmohamed.w4.exe
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\bin\Debug\saifmohamed.w4.pdb
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\bin\Debug\EntityFramework.dll
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\bin\Debug\EntityFramework.xml
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\forget password.g.cs
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\MainWindow.g.cs
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\Profile.g.cs
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\sign in.g.cs
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\sign up.g.cs
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\App.g.cs
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4_Content.g.cs
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4_MarkupCompile.cache
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4_MarkupCompile.lref
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\App.baml
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\forget password.baml
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\MainWindow.baml
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\Profile.baml
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\sign in.baml
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\sign up.baml
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.g.resources
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.Properties.Resources.resources
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.csproj.CopyComplete
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.exe
+C:\Users\IT\source\repos\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.pdb
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\bin\Debug\saifmohamed.w4.exe.config
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\bin\Debug\saifmohamed.w4.exe
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\bin\Debug\saifmohamed.w4.pdb
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\forget password.g.cs
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\Profile.g.cs
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\sign in.g.cs
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\sign up.g.cs
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4_Content.g.cs
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4_MarkupCompile.cache
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4_MarkupCompile.lref
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\App.baml
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\forget password.baml
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\Profile.baml
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\sign in.baml
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\sign up.baml
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.g.resources
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.Properties.Resources.resources
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.csproj.CopyComplete
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.exe
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\saifmohamed.w4.pdb
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\delete.g.cs
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\search.g.cs
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\admin login.g.cs
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\delete.baml
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\search.baml
+C:\Users\IT\Desktop\saif.w4\saifmohamed.w4\saifmohamed.w4\obj\Debug\admin login.baml

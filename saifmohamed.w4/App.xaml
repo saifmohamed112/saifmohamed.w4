@@ -1,0 +1,40 @@
+﻿<Application x:Class="saifmohamed.w4.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:saifmohamed.w4"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <Style x:Key="label" TargetType="Label">
+
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="BorderBrush" Value="Red"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontFamily" Value="Showcard Gothic"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <Style x:Key="all" TargetType="Label">
+
+            <Setter Property="FontSize" Value="33"/>
+            <Setter Property="Background" Value="Blue"/>
+            <Setter Property="BorderBrush" Value="Red"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontFamily" Value="Showcard Gothic"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+
+        <Style x:Key="butt" TargetType="Button">
+
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="Background" Value="HotPink"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontFamily" Value="arial"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+
+
+    </Application.Resources>
+</Application>

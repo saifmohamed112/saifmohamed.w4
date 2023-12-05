@@ -1,0 +1,62 @@
+﻿<Page x:Class="saifmohamed.w4.sign_up"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:saifmohamed.w4"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800" Background="White"
+      Title="sign_up">
+
+    <Grid Height="NaN">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="69"/>
+            <RowDefinition Height="69"/>
+            <RowDefinition Height="69"/>
+            <RowDefinition Height="69"/>
+            <RowDefinition Height="69"/>
+            <RowDefinition Height="69"/>
+        </Grid.RowDefinitions>
+        <Label Style="{StaticResource label}" Content="User Name :"  Height="NaN" Margin="125,19,501,0" Width="NaN" Grid.Row="1" Grid.ColumnSpan="2">
+            <UIElement.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </UIElement.RenderTransform>
+        </Label>
+        <Label Style="{StaticResource ResourceKey=all}" Content="sign up form" HorizontalAlignment="Left" Margin="20,21,0,0" VerticalAlignment="Top" Width="450" Height="55" Grid.Column="1" Grid.RowSpan="2"/>
+        <TextBox x:Name="usrnmetxt" HorizontalAlignment="Left" Margin="145,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" Height="40" FontWeight="Bold" FontSize="18" Grid.Column="1" Grid.Row="1"/>
+        <TextBox x:Name="passtxt" HorizontalAlignment="Left" Margin="145,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" Height="40" FontWeight="Bold" FontSize="18" Grid.Column="1" Grid.Row="2"/>
+        <TextBox x:Name="agetxt" HorizontalAlignment="Left" Margin="145,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" Height="40" FontWeight="Bold" FontSize="18" Grid.Column="1" Grid.Row="3"/>
+        <TextBox x:Name="photxt" HorizontalAlignment="Left" Margin="145,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" Height="40" FontWeight="Bold" FontSize="18" Grid.Column="1" Grid.Row="4"/>
+        <Label Style="{StaticResource ResourceKey=label}" Content="password :"  Height="NaN" Margin="120,28,510,0" Width="NaN" RenderTransformOrigin="0.559,0.5" Grid.Row="2" Grid.ColumnSpan="2"/>
+        <Label Style="{StaticResource ResourceKey=label}" Content="age : "  Height="NaN" Margin="35,20,540,9" Width="NaN" RenderTransformOrigin="0.559,0.5" Grid.Row="3" Grid.Column="1"/>
+        <Label x:Name="gndtxt" Style="{StaticResource ResourceKey=label}" Content="gender :"  Height="NaN" Margin="130,41,520,57" Width="NaN" RenderTransformOrigin="0.559,0.5" Grid.Row="4" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Label x:Name="gndtxt_Copy" Style="{StaticResource ResourceKey=label}" Content="Phone number :"  Height="NaN" Margin="65,65,525,28" Width="NaN" RenderTransformOrigin="0.559,0.5" Grid.Row="3" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Label x:Name="gndtxt_Copy1" Style="{StaticResource ResourceKey=label}" Content="city :"  Height="NaN" Margin="145,26,540,-26" Width="NaN" RenderTransformOrigin="0.559,0.5" Grid.Row="5" Grid.ColumnSpan="2"/>
+        <ComboBox x:Name="city_cmp" HorizontalAlignment="Left" Margin="160,32,0,0" VerticalAlignment="Top" Width="153" Height="40" Grid.Column="1" Grid.Row="5" SelectionChanged="city_cmp_SelectionChanged">
+            <ComboBoxItem>monofia</ComboBoxItem>
+            <ComboBoxItem>cairo</ComboBoxItem>
+            <ComboBoxItem>alexandria</ComboBoxItem>
+            <ComboBoxItem>asyote</ComboBoxItem>
+        </ComboBox>
+        <Button x:Name="signupbtn" Content="signup" HorizontalAlignment="Left" Margin="500,29,0,0" VerticalAlignment="Top" Height="44" Width="120" FontWeight="Bold" FontSize="18" Click="signupbtn_Click" Grid.Column="1" Grid.RowSpan="2" Grid.Row="2"/>
+        <Button x:Name="sgninbtn" Content="sign in" HorizontalAlignment="Left" Margin="520,30,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Width="85" Click="sgninbtn_Click" Grid.Column="1" Grid.Row="5"/>
+        <Label Content="aready have an acount" HorizontalAlignment="Left" Margin="368,32,0,0" VerticalAlignment="Top" FontWeight="Bold" Grid.Column="1" Grid.Row="5"/>
+        <ComboBox x:Name="gender_cmp" HorizontalAlignment="Left" Margin="160,45,0,0" VerticalAlignment="Top" Width="153" Height="40" Grid.Column="1" Grid.Row="4" Grid.RowSpan="2" SelectionChanged="gender_cmp_SelectionChanged">
+            <ComboBoxItem Content="male"/>
+            <ComboBoxItem Content="female"/>
+           
+        </ComboBox>
+
+
+
+    </Grid>
+</Page>
